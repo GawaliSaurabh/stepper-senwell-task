@@ -1,0 +1,52 @@
+.doc-m{
+    margin-top: 5.5rem;
+    border: 1px solid rgb(250, 248, 238);
+    /* padding: 1.5rem; */
+    box-shadow: 2px 2px rgb(232, 232, 232);
+}
+.other-details{
+    border:1px solid black;
+    padding: 10px;
+    padding-bottom: 20px;
+    padding-right: 5px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    padding-bottom: 2px;
+    font-weight: 500;
+    background-color: #f5f6f2;
+    padding: 0.7rem;
+}
+#doc{
+    margin-left: -13px;
+    font-size: 18px;
+}
+.doc{
+    padding: 10px;
+    /* padding-right: 4px; */
+   font-weight: 500;
+   padding: 1.5rem;
+    background-color: #f0f0ee;
+}
+.idn{
+    margin-top: 2.5rem;
+    font-size: 18px;
+    margin-left: -20px;
+    font-weight: 540;
+}
+.finance{
+    margin-top: 2.5rem;
+    font-size: 18px;
+    margin-left: -20px;
+    font-weight: 540;
+}
+.imp{
+    margin-right: 40px!important;
+}
+.detailbox{
+    margin-right: 5px;
+}
+.redclr{
+    color: red;
+}
+

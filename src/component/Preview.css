@@ -1,0 +1,39 @@
+.detail {
+    border: 1px solid black;
+    border-radius: 7px;
+  }
+  .Bh3 {
+    margin-top: 15px;
+    text-decoration: underline;
+    /* font-size: 10px; */
+  }
+  .Bh4 {
+    margin-top: 15px;
+    background-color: rgb(216, 221, 232);
+    border-radius: 7px;
+    margin-bottom: 15px;
+    font-size: 18px;
+    padding: 0.7rem;
+  }
+  .data {
+    margin-right: -10px;
+  }
+  .row {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    font-size: 22px;
+    margin-left: 20px;
+    
+  }
+  .row p {
+    text-transform: capitalize;
+    line-height: 2.5;
+  
+  }
+  .border{
+    border-bottom: 1px solid black;
+    /* margin-right: 10px; */
+  
+  }
+  
+  

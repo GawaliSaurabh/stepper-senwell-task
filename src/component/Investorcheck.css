@@ -1,0 +1,31 @@
+.check{
+    width: 90%;
+    margin: 0 auto;
+    border: 1px solid #d4d4d4;
+    border-radius: 5px 5px 0px 0px;
+    /* height: 10rem; */
+    margin-top: 2rem;
+}
+.garentC{
+    background-color: #f6f6f6;
+    border-radius: 5px 5px 0px 0px;
+    border-bottom: 1px solid #d4d4d4;
+
+}
+.guranterH{
+    width: 95%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    height: 3rem;
+   
+}
+.guranterH h4 {
+    color: black;
+}
+.guranterR{
+    width: 95%;
+    margin: 0 auto;
+    margin-top: 1rem;
+
+}

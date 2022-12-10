@@ -1,0 +1,51 @@
+.check{
+    width: 90%;
+    margin: 0 auto;
+    border: 1px solid #d4d4d4;
+    border-radius: 5px 5px 0px 0px;
+    /* height: 10rem; */
+    margin-top: 5rem;
+}
+.garentC{
+    background-color: #f6f6f6;
+    border-radius: 5px 5px 0px 0px;
+    border-bottom: 1px solid #d4d4d4;
+
+}
+.guranterH{
+    width: 95%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    height: 3rem;
+   
+}
+.guranterH h4 {
+    color: black;
+}
+.guranterR{
+    width: 95%;
+    margin: 0 auto;
+    margin-top: 1rem;
+
+}
+.bton{
+    width:90%;
+    margin: 0 auto;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.bton Button{
+    background-color: #673ab7;
+    color: white;
+    box-shadow: 0 0 2px 0 rgb(70, 70, 70);
+}
+.bton Button:hover{
+    background-color: #673ab7;
+}
+.bton .button1{
+    margin-right: 0.5rem;
+}
+.redclr{
+    color: red;
+}
